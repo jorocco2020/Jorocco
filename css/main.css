@@ -232,7 +232,7 @@ input.input100 {
 /*//////////////////////////////////////////////////////////////////
 [ S-Text 0 - 15 ]*/
 .s1-txt1 {
-  font-family: cursive-Regular;
+  font-family: fantasy-Regular;
   font-size: 12px;
   color: #7d8da6;
   line-height: 1;
@@ -240,28 +240,28 @@ input.input100 {
 }
 
 .s1-txt2 {
-  font-family: cursive-Bold;
+  font-family: fantasy-Bold;
   font-size: 15px;
   color: #fff;
   line-height: 1.2;
 }
 
 .s1-txt3 {
-  font-family: cursive-Regular;
+  font-family: fantasy-Regular;
   font-size: 12px;
   color: #cccccc;
   line-height: 1.4;
 }
 
 .s1-txt4 {
-  font-family: cursive-Bold;
+  font-family: fantasy-Bold;
   font-size: 15px;
   color: #555;
   line-height: 1.2;
 }
 
 .s1-txt5 {
-  font-family: cursive-Regular;
+  font-family: fantasy-Regular;
   font-size: 12px;
   color: #999;
   line-height: 1.6666667;
@@ -270,7 +270,7 @@ input.input100 {
 /*//////////////////////////////////////////////////////////////////
 [ M-Text 16 - 25 ]*/
 .m1-txt1 {
-  font-family: cursive-Black;
+  font-family: fantasy-Black;
   font-size: 24px;
   color: #333;
   line-height: 1.2;
@@ -278,7 +278,7 @@ input.input100 {
 }
 
 .m1-txt2 {
-  font-family: cursive-Regular;
+  font-family: fantasy-Regular;
   font-size: 18px;
   color: #555;
   line-height: 1.4;
@@ -288,7 +288,7 @@ input.input100 {
 /*//////////////////////////////////////////////////////////////////
 [ L-Text >= 26 ]*/
 .l1-txt1 {
-  font-family: cursive;
+  font-family: fantasy;
   font-size: 50px;
   color: #fff;
   line-height: 1.2;
@@ -296,14 +296,14 @@ input.input100 {
 }
 
 .l1-txt2 {
-  font-family: cursive-Light;
+  font-family: fantasy-Light;
   font-size: 30px;
   color: #fff;
   line-height: 1.2;
 }
 
 .l1-txt3 {
-  font-family: cursive-Bold;
+  font-family: fantasy-Bold;
   font-size: 36px;
   color: #555555;
   line-height: 1;
